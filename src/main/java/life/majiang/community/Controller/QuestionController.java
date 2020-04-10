@@ -1,7 +1,6 @@
 package life.majiang.community.Controller;
 
 import life.majiang.community.dto.QuestionDTO;
-import life.majiang.community.mapper.QuesstionMapper;
 import life.majiang.community.service.QuestionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
