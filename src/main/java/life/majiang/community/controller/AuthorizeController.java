@@ -1,4 +1,4 @@
-package life.majiang.community.Controller;
+package life.majiang.community.controller;
 
 import life.majiang.community.dto.AccessTokenDTO;
 import life.majiang.community.dto.GithubUser;

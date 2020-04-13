@@ -1,4 +1,4 @@
-package life.majiang.exception;
+package life.majiang.community.exception;
 
 public class CustomizeException extends RuntimeException {
     private String message;

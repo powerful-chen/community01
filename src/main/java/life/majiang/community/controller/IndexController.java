@@ -1,4 +1,4 @@
-package life.majiang.community.Controller;
+package life.majiang.community.controller;
 
 import life.majiang.community.dto.PaginationDTO;
 import life.majiang.community.service.QuestionService;

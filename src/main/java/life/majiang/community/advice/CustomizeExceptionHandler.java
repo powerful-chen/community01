@@ -1,6 +1,6 @@
 package life.majiang.community.advice;
 
-import life.majiang.exception.CustomizeException;
+import life.majiang.community.exception.CustomizeException;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
