@@ -30,7 +30,7 @@ public class UserService {
             User updateUser = new User();
             updateUser.setGmtModified(System.currentTimeMillis());
             updateUser.setAvatarUrl(user.getAvatarUrl());
-            updateUser.setName(user.getToken());
+            updateUser.setName(user.getName());
             updateUser.setToken(user.getToken());
             UserExample example = new UserExample();
             example.createCriteria()
