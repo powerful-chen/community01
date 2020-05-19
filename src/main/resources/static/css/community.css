@@ -25,6 +25,22 @@ body {
     margin-top: 25px;
 }
 
+.question-wechat {
+    width: 32%;
+}
+
+.question-tag {
+    margin-right: 5px;
+}
+
+.question-related {
+    line-height: 20px;
+    font-size: 12px;
+    margin-left: 0;
+    list-style: none;
+    padding-left: 0;
+}
+
 .text-desc {
     font-size: 12px;
     font-weight: normal;
@@ -87,7 +103,8 @@ body {
     font-size: 15px;
     cursor: pointer;
 }
-.menu .comment-icon{
+
+.menu .comment-icon {
     font-size: 15px;
     cursor: pointer;
 }
